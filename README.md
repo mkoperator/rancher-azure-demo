@@ -1,7 +1,7 @@
 # Demo Azure Rancher
 Demonstrate ability to deploy RKE and Rancher utilizing Terraform on Azure stack.
 
-Automate creation of rancher instance and load Azure credentials to create native RKE linked clusters via rancher.
+Automate creation of rancher instance and load Azure credentials then utilize to create native RKE linked clusters via rancher.
 
 ## Proficiency to Demonstrate
 Terraform
